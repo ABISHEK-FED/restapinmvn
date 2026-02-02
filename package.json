@@ -1,0 +1,23 @@
+{
+  "name": "restapinmvn",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ABISHEK-FED/restapinmvn#readme",
+  "bugs": {
+    "url": "https://github.com/ABISHEK-FED/restapinmvn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABISHEK-FED/restapinmvn.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^9.1.5"
+  }
+}
